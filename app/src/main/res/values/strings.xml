@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyWorkshopApp</string>
+
+    <string name="navigation_drawer_open">فتح القائمة</string>
+    <string name="navigation_drawer_close">إغلاق القائمة</string>
+</resources>
